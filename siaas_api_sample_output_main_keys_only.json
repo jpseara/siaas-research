@@ -1,0 +1,26 @@
+{
+  "0924aa8b-6dc9-4fec-9716-d1601fc8b6c6": {
+    "config": {},
+    "neighborhood": {
+      "192.168.122.51": {}
+    },
+    "platform": {},
+    "portscanner": {
+      "192.168.122.51": {
+        "system_info": {},
+        "scanned_ports": {
+          "22/tcp": {
+            "scan_results": {}
+          },
+          "80/tcp": {
+            "scan_results": {}
+          },
+          "443/tcp": {
+            "scan_results": {}
+          }
+        },
+        "stats": {}
+      }
+    }
+  }
+}
